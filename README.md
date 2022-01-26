@@ -1,7 +1,7 @@
 ### ¡Hola a todos, soy Matías Sosa! 👋
 
 - 🔭 Busco mi primera experiencia laboral como Full Stack trainee.
-- 🌱 Actuamente estudiando Reac.
+- 🌱 Actuamente estudiando React.
 - 📫 Contacto: matiasezequielsosa@gmail.com
 
 <div align="center">
