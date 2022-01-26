@@ -2,7 +2,6 @@
 
 - 🔭 Busco mi primera experiencia laboral como Full Stack trainee.
 - 🌱 Actuamente estudiando React.
-- 📫 Contacto: matiasezequielsosa@gmail.com
 
 <div align="center">
   <a href="https://github.com/sosamati">
